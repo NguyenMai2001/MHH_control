@@ -1,0 +1,1 @@
+Im=0.01;KA=2;km=0.5;KP=5;kr=100;kt=2;kTA=1;kTP=1;kTV=1;kv=2;kV=2;KV=10;Ra=10;TA=0;Tm=0;TP=0;TV=0;
